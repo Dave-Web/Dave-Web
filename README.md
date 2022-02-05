@@ -1,4 +1,4 @@
-# 💫Developer in Making! :
+# 💫Full Stack Web Developer in Making! :
 🔭 I'm currently working on responsive web development
 🌱 I'm currently learning react and flutter
 👯 I'm looking to collaborate on web applications made with react

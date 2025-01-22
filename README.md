@@ -1,10 +1,17 @@
 # 💫Full Stack Web Developer:
 Hi there! 👋 I'm Full Stack Web Developer --- Passionate about creating responsive, user-friendly web applications and always eager to learn new skills. 🚀 
-🔭 I'm currently working on responsive web development
-🌱 I'm currently learning react and flutter
-👯 I'm looking to collaborate on web applications made with react
-🤔 I’m looking for help with proper deployment of projects using heroku,
-💬 Always looking for different way to learn and better, 
+🔭 I'm currently working on a Progressive Web App for a gym and related services using modern frameworks like React
+🌱What I'm Currently Learning:
+- Advanced React.js concepts like state management, context, and hooks.
+- Proper deployment strategies using platforms like Vercel and AWS.
+- learning flutter and python
+👯 Looking to Collaborate On
+- React-based web applications that focus on solving real-world problems.
+- Open-source projects in frontend or full-stack development.
+💬 Ask Me About:
+- Web development (HTML, CSS, JavaScript, React, and more).
+- Best practices for creating responsive and scalable applications.
+- Starting your journey in frontend or backend development.
 💬 Ask me about web development, 
 ⚡ Fun fact: I believe everyone deserves a fair chance.
 

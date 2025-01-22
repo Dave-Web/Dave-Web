@@ -1,4 +1,5 @@
-# 💫Full Stack Web Developer in Making! :
+# 💫Full Stack Web Developer:
+Hi there! 👋 I'm Full Stack Web Developer --- Passionate about creating responsive, user-friendly web applications and always eager to learn new skills. 🚀 
 🔭 I'm currently working on responsive web development
 🌱 I'm currently learning react and flutter
 👯 I'm looking to collaborate on web applications made with react

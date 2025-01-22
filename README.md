@@ -1,19 +1,26 @@
-# 💫Full Stack Web Developer:
-Hi there! 👋 I'm Full Stack Web Developer --- Passionate about creating responsive, user-friendly web applications and always eager to learn new skills. 🚀 
-🔭 I'm currently working on a Progressive Web App for a gym and related services using modern frameworks like React
-🌱What I'm Currently Learning:
-- Advanced React.js concepts like state management, context, and hooks.
-- Proper deployment strategies using platforms like Vercel and AWS.
-- learning flutter and python
-👯 Looking to Collaborate On
-- React-based web applications that focus on solving real-world problems.
-- Open-source projects in frontend or full-stack development.
-💬 Ask Me About:
-- Web development (HTML, CSS, JavaScript, React, and more).
-- Best practices for creating responsive and scalable applications.
-- Starting your journey in frontend or backend development.
-⚡ Fun fact: 
-I believe everyone deserves a fair chance, and I enjoy helping others grow in the tech field.
+# 💫 Full Stack Web Developer  
+Hi there! 👋 I'm a **Full Stack Web Developer** passionate about creating **responsive, user-friendly web applications** and always eager to learn new skills. 🚀  
+## 🔭 **What I'm Currently Working On:**  
+- Building a **Progressive Web App** for gym and related services using modern frameworks like **React**.  
+## 🌱 **What I'm Currently Learning:**  
+- Advanced **React.js** concepts such as **state management**, **context**, and **hooks**.  
+- Proper deployment strategies using platforms like **Vercel** and **AWS**.  
+- Diving deeper into **Flutter** for cross-platform mobile development and exploring more with **Python**.  
+## 👯 **Looking to Collaborate On:**  
+- **React-based web applications** that address real-world challenges.  
+- Open-source projects in **frontend or full-stack development**.  
+
+---
+
+## 💬 **Ask Me About:**  
+- **Web development** (HTML, CSS, JavaScript, React, and beyond).  
+- Best practices for building **responsive** and **scalable** applications.  
+- How to kickstart your journey in **frontend or backend development**.  
+
+---
+
+## ⚡ **Fun Fact:**  
+I believe **everyone deserves a fair chance**, and I genuinely enjoy helping others grow in the tech field.  
 
 
 
